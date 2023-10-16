@@ -1,0 +1,33 @@
+D:\New folder\Tugas1dan2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.exe.config
+D:\New folder\Tugas1dan2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.exe
+D:\New folder\Tugas1dan2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.pdb
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.AssemblyReference.cache
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.Form1.resources
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.FormTambahData.resources
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.Properties.Resources.resources
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.GenerateResource.cache
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.CoreCompileInputs.cache
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.exe
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.pdb
+D:\New folder\Tugas2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.exe.config
+D:\New folder\Tugas2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.exe
+D:\New folder\Tugas2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.pdb
+D:\New folder\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.AssemblyReference.cache
+D:\New folder\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.Form1.resources
+D:\New folder\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.FormTambahData.resources
+D:\New folder\Tugas2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.Properties.Resources.resources
+D:\New folder\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.GenerateResource.cache
+D:\New folder\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.CoreCompileInputs.cache
+D:\New folder\Tugas2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.exe
+D:\New folder\Tugas2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.pdb
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.exe.config
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.exe
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.pdb
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.AssemblyReference.cache
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.Form1.resources
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.FormTambahData.resources
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.Properties.Resources.resources
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.GenerateResource.cache
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.exe
+C:\Users\Jordan\Downloads\Tugas2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.pdb

@@ -1,0 +1,11 @@
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.csproj.AssemblyReference.cache
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.Properties.Resources.resources
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.csproj.GenerateResource.cache
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.csproj.CoreCompileInputs.cache
+D:\New folder\Tugas1dan2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.exe.config
+D:\New folder\Tugas1dan2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.exe
+D:\New folder\Tugas1dan2GUIPBOTM\bin\Debug\Tugas1dan2GUIPBOTM.pdb
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.exe
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas1dan2GUIPBOTM.pdb
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.Form1.resources
+D:\New folder\Tugas1dan2GUIPBOTM\obj\Debug\Tugas2GUIPBOTM.FormTambahData.resources
